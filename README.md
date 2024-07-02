@@ -6,21 +6,15 @@ Python 3.x
 scapy library (pip install scapy)
 Usage
 Clone the Repository:
-
-bash
-Copy code
 git clone <repository_url>
 cd <repository_name>
-Install Dependencies:
 
-bash
-Copy code
-pip install scapy
-Run the Script:
+2. Install Dependencies:
+   pip install scapy
 
-bash
-Copy code
-python packet_capture.py
+3. Run the Script:
+   python packet_capture.py
+
 Output:
 
 The script captures packets and displays detailed information about each packet received.
